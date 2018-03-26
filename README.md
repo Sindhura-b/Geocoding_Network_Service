@@ -1,5 +1,5 @@
 # Geocoding Network Service
-In this project, a simple network service has been developed to resolve the longitude and latitude coordinates for a given address using third party geo-coding services.
+In this project, a network service with RESTful HTTP interface has been implemented to resolve the longitude and latitude coordinates for a given address using third party geo-coding services.
 
 Google maps is the primary geo-coding service, while here maps is the secondary service. The code falls back to secondary service when primary service fails to return a result or there is a network error.
 
