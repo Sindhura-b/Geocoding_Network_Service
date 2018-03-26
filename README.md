@@ -24,8 +24,8 @@ If the entered address is invalid as follows:
 ```
 => kjegEHFLAHFJLHBEGRBEWH
 ```
-and either of the geocoding services could not find the longitude and latitude co-oordinates. Then the output returned will be:
+And either of the geocoding services fail to find the longitude and latitude co-oordinates. Then the output returned will be:
 
 ```
-Location coodinates could not be found, recheck the address entered 
+Location coodinates could not be found, recheck the entered address 
 ```
