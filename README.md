@@ -9,7 +9,7 @@ Run geocoding_service.py file in 'Geocoding_network_service' folder by typing th
 ```
 => python Geocoding_network_service/geocoding_service.py
 ```
-Then, we will be prompted to enter the address of the location for which we need longitude and latitude coordinates. For example, if we enter a valid location as follows:
+Then, we will be prompted to enter the address of the location for which we need longitude and latitude coordinates. For example, if a valid location is entered as follows:
 
 ```
 => 503b lonelm ct
