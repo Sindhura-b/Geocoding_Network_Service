@@ -17,7 +17,7 @@ Then, we will be prompted to enter the address of the location for which we need
 Ouput is:
 
 ```
-=> {'lng': -80.543966, 'lat': 43.4907759}
+{'lng': -80.543966, 'lat': 43.4907759}
 ```
 If the entered address is invalid as follows:
 
